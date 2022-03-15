@@ -1,2 +1,2 @@
-# Red-social-acad-mica
+# Red-social-académica
 Código de la aplicación
